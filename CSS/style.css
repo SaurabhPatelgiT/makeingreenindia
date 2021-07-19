@@ -43,42 +43,49 @@ p{
 
 
 @keyframes change{
+
     0%
-    {
-        background-image: url('../images/101.jpeg');
-    }
-    10%
-    {
-        background-image: url('../images/102.jpg');
-    }
-    20%
-    {
-        background-image: url('../images/103.jpg');
-    }
-    30%
-    {
-        background-image: url('../images/104.jpg');
-    }
-    40%
-    {
-        background-image: url('../images/105.jpg');
-    }
-    50%
-    {
-        background-image: url('../images/agriculture.jpg');
-    }
-
-    60%
-    {
-        background-image: url('../images/indoor\ vegetables.jpg');
-    }
-
-    70%
     {
         background-image: url('../images/indian\ flag.jpg');
     }
 
 
+    10%
+    {
+        background-image: url('../images/101.jpeg');
+    }
+    20%
+    {
+        background-image: url('../images/102.jpg');
+    }
+    30%
+    {
+        background-image: url('../images/103.jpg');
+    }
+    40%
+    {
+        background-image: url('../images/104.jpg');
+    }
+    50%
+    {
+        background-image: url('../images/105.jpg');
+    }
+    60%
+    {
+        background-image: url('../images/agriculture.jpg');
+    }
+
+    70%
+    {
+        background-image: url('../images/indoor\ vegetables.jpg');
+    }
+
+    80%
+    {
+        background-image: url('../images/indian\ flag.jpg');
+    }
+
+   
 
 }
 
