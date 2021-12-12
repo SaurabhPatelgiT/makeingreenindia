@@ -58,7 +58,7 @@ h3{
 .paragraphs{
     width: 100%;
     /*background-image:url('../images/plainbackground.jpg');*/
-    background: linear-gradient( #3E7C17,#49FF00,#3E7C17,#3E7C17);
+    background: linear-gradient( #3E7C17,#49FF00,#3E7C17,#3E7C17,#3E7C17));
     background-repeat: no-repeat;
     background-size:100% 100%;
     position:relative;
