@@ -59,3 +59,57 @@ html{
     margin-right: auto;
     width: 50%;
   }
+
+
+
+
+
+
+
+
+
+
+
+  
+.footersection{
+    width: 100%;
+    height: auto;
+    padding: 20px 40px;
+    align-items: center;
+    background:#28282B;
+    position: relative;
+}
+.footersection a{
+    font-size: 0.9rem;
+    line-height: 1.6;
+    font-weight: 400;
+    color:whitesmoke;
+    margin-right: 2.0rem;
+    text-transform: capitalize;
+}
+.footersection h3{
+    text-transform: uppercase;
+    color:rgb(251, 253, 247);
+    margin-bottom: 2.5rem;
+    font-size: 1.4rem!important;
+    font-weight: 600;
+    align-items: center;
+    
+    text-shadow:yellow;
+}
+.icon{
+    column-gap: 1.0rem;
+    align-items: center;
+    
+}
+
+.quick{
+
+    font-size: 0.9rem;
+    line-height: 1.6;
+    font-weight: 400;
+    color:whitesmoke;
+    margin-right: 2.0rem;
+    text-transform: capitalize;
+     
+}
