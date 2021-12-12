@@ -39,10 +39,9 @@ html{
     text-align: center;
   position:relative;
       overflow: hidden;
-    animation: change 55s infinite ease-in-out;
+    animation: change 50s infinite ease-in-out;
 }
 
-s
 @keyframes change{
 
     0%
