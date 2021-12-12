@@ -12,6 +12,7 @@ li{list-style: none;}
     background-repeat: no-repeat;
     background-size:100% 100%;
     position:relative;
+
 }
 
 html{
@@ -23,11 +24,19 @@ html{
     height: auto;
 }
 
+h3{
+    color: blue;
+    background-color:#F0BB62;
+    border: 1rem solid #49FF00;
+    border-radius: 0.8rem;
+    
+    
+    }
 
 .header-section{
     width: 100%;
     height: inherit;
-    color:rgb(241, 96, 12);
+    
     text-align: center;
     position: relative ;
 }
@@ -48,7 +57,8 @@ html{
 
 .paragraphs{
     width: 100%;
-    background-image:url('../images/14.jpg');
+    /*background-image:url('../images/plainbackground.jpg');*/
+    background: linear-gradient( #3E7C17,#49FF00,#3E7C17,#3E7C17);
     background-repeat: no-repeat;
     background-size:100% 100%;
     position:relative;
