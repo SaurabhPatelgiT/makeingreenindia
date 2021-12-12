@@ -27,7 +27,7 @@ html{
 h5{
     color: blue;
     background-color:#F0BB62;
-    border: 1rem solid #49FF00;
+    border: 1.1rem solid #49FF00;
     border-radius: 0.8rem;
     
     
@@ -81,6 +81,11 @@ h5{
     margin-bottom: 1rem;
      
 }
+
+
+
+
+
 
 
 .footersection{
